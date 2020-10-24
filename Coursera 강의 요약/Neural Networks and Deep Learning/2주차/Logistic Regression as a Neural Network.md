@@ -46,3 +46,46 @@
   - 보통 regression Loss function을 사용함.
 - Loss function은 하나의 데이터에 대해서만, 이를 여러 데이터에 대해 합친게 Cost Function
 
+
+
+
+
+## Gradient Descent
+
+- Gradient Descent(기울기 강하)
+  - 비용함수 J를 최소화 하는 공간매개변수 w, b를 찾는 여러 방법 중 하나.
+  - 비용함수 J는 볼록한(convex) 함수.
+    - 그렇기 때문에 최소값 찾기가 쉬워서 사용.
+    - 초기화도 편함.
+      - 무작위로 초기화 하기도 하지만,
+      - 이 경우는 볼록하기 때문에 기울기 강하에 따르기 때문에 그럴 필요는 없음.
+
+
+
+
+
+
+
+## Derivatives
+
+- 기본적인 미분이라 생략
+
+
+
+
+
+
+
+## More Derivative Examples
+
+- 마찬가지로 생략
+
+
+
+
+
+
+
+## Computation graph
+
+- forward pass or backward pass
